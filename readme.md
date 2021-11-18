@@ -5,7 +5,11 @@
 
 - Technologies Used Bootstrap and JS with HTML5.
 
-- 
+- https://vigilant-boyd-a665cc.netlify.app/
+
+- https://yhekim.github.io/Bootstrap_Team_Members_Page/
+
+- ![gif](https://github.com/yhekim/Bootstrap_Team_Members_Page/blob/main/Bootstrap_team_members.gif)
 
 
 ## Problem Statement
